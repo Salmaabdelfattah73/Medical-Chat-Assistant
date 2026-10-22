@@ -1,0 +1,16 @@
+pyspark
+kagglehub
+matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
+rouge-score
+nltk
+unsloth
+trl
+peft
+accelerate
+bitsandbytes
+transformers
+datasets

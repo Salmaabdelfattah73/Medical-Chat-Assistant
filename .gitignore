@@ -1,0 +1,12 @@
+medical_qa_gguf/
+medical_qa_model_lora/
+unsloth_compiled_cache/
+S3/
+*.gguf
+*.safetensors
+*.bin
+*.pem
+.env
+__pycache__/
+.ipynb_checkpoints/project_instructions/
+Report/
