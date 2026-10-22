@@ -8,5 +8,6 @@ S3/
 *.pem
 .env
 __pycache__/
-.ipynb_checkpoints/project_instructions/
+.ipynb_checkpoints/
+project_instructions/
 Report/
